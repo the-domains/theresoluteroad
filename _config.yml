@@ -1,7 +1,7 @@
 name: theresoluteroad
 favicon: null
 layout_spectrum: 0.052899159491062164
-typography_spectrum: 0.6061014118604362
+typography_spectrum: 0.7529
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8958717240020633
+    - '#4f5356'
+    - '#353537'
+    - '#4983cc'
+    - '#8cd3fd'
+    - '#868074'
+  brandStrength: 0.875
   lightness: 0.5002622622996569
   saturation: 0.9234417635016143
   rhythmicContrast: 0.6057025021873415
